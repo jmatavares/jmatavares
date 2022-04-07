@@ -1,8 +1,9 @@
 # Hello World! I'm Jamile Tavares.
 👷🏻‍♀️ Graduated in civil engineering - UFS</p>
+🌉 Master degree in civil engineering structures - UFRGS</p>
 ✏ University professor</p>
 📈 PhD student - PUC-Rio </p>
-🚀 Software Engineering student - 42 Rio </p>
+🚀 Software engineering student - 42 Rio </p>
 🏗 Working with engineering software in Fortran, Python and C</p>
 ##
 
