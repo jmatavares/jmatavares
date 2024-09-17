@@ -3,8 +3,7 @@
 🌉 Master degree in civil engineering structures - UFRGS</p>
 ✏ University professor</p>
 📈 PhD student - PUC-Rio </p>
-🚀 Software engineering student - 42 Rio </p>
-🏗 Working with engineering software in Fortran, Python and C</p>
+🏗 Working with engineering software in Fortran, Python and C++</p>
 ##
 
 
